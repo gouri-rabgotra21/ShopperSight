@@ -5,6 +5,9 @@
 
 ---
 
+**You can view the live deployed application here:**
+[**https://shoppersight-gp4i4axlrrsbt5dwvdcxsw.streamlit.app/**](https://shoppersight-gp4i4axlrrsbt5dwvdcxsw.streamlit.app/)
+
 ## Table of Contents
 1. [Overview](#overview)
 2. [Key Features](#key-features)
